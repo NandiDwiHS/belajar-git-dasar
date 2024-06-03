@@ -1,0 +1,10 @@
+#Ignored folder log
+log/
+
+#Ignored file dengan extension .backup
+*.backup
+
+#Ignored file
+ignored.txt
+
+
